@@ -2,7 +2,7 @@
 
 Projeto encabeçado pela Rocketseat com a proposta de ensinar desenvolvimento web para iniciantes. Entre o dia primeiro e 5 de junho foram apresentadas cinco video-aulas pelo facilitador Mayk Brito, abordando as principais tecnologias utilizadas no mercado, HTML, CSS, Java Script, Node, Nunjucks e SQLite. O principal diferencial do processo de ensino foi a abordagem prática e o acesso à comunidade. 
 
-![https://ibb.co/VgznMHk](https://ibb.co/VgznMHk)
+![https://i.ibb.co/5rSpsYJ/Untitled.png](https://i.ibb.co/5rSpsYJ/Untitled.png)
 
 ### ℹ️ Sobre a aplicação
 
@@ -27,10 +27,10 @@ Pretendo nos próximos dois meses, desenvolver uma aplicação semelhante à apr
 
 **Vou estar atualizando o projeto na minha página do [Medium](https://medium.com/@victormnavarrof) e no [Instagram](https://www.instagram.com/tivor_n/)**
 
-![https://ibb.co/sqmkZJ9](https://ibb.co/sqmkZJ9)
+![hhttps://i.ibb.co/SBsWz7w/Untitled-1.png](hhttps://i.ibb.co/SBsWz7w/Untitled-1.png)
 
 ### 🔚 Conclusão
 
 Acredito que a mensagem final do projeto seja para nunca pararmos de aprender e construir autonomia no nosso trabalho a partir dos esforços da comunidade. Essa concepção me lembra o [documentário](https://www.youtube.com/watch?v=nJPERZDfyWc) do Kirby Ferguson a respeito de criatividade e direitos autorais. Nele, o autor apresenta um modelo simplificado do processo criativo: 
 
-![https://ibb.co/kJNytTs](https://ibb.co/kJNytTs)# nlw_starter
+![https://i.ibb.co/9hQv70k/Frame-3-1.png](https://i.ibb.co/9hQv70k/Frame-3-1.png)
