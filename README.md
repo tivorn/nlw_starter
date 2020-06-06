@@ -27,7 +27,7 @@ Pretendo nos próximos dois meses, desenvolver uma aplicação semelhante à apr
 
 **Vou estar atualizando o projeto na minha página do [Medium](https://medium.com/@victormnavarrof) e no [Instagram](https://www.instagram.com/tivor_n/)**
 
-![hhttps://i.ibb.co/SBsWz7w/Untitled-1.png](hhttps://i.ibb.co/SBsWz7w/Untitled-1.png)
+![https://i.ibb.co/SBsWz7w/Untitled-1.png](https://i.ibb.co/SBsWz7w/Untitled-1.png)
 
 ### 🔚 Conclusão
 
