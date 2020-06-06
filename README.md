@@ -20,7 +20,7 @@ A didática do Mayk é sensacional, não tive dificuldades para acompanhar o con
 
 ### ⏭️Proximos passos com o projeto: a milha extra
 
-Pretendo nos próximos dois meses, desenvolver uma aplicação semelhante à apresentada no projeto. Exceto por algumas diferenças:
+Pretendo ,nos próximos dois meses desenvolver, uma aplicação semelhante à apresentada no projeto, exceto por algumas diferenças:
 
 - Ter, pelo menos, uma modificação por "tela", seja no front, seja no back.
 - A aplicação se chamará [Spot-un](https://www.figma.com/file/T268jD0ITQfLltnybGPnPU/spot-un?node-id=0%3A1), um repositório de materias de estudos das principais universidades públicas do Brasil, como listas de exercícios e provas.
