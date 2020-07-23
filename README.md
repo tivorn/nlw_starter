@@ -23,9 +23,7 @@ A didática do Mayk é sensacional, não tive dificuldades para acompanhar o con
 Pretendo ,nos próximos dois meses desenvolver, uma aplicação semelhante à apresentada no projeto, exceto por algumas diferenças:
 
 - Ter, pelo menos, uma modificação por "tela", seja no front, seja no back.
-- A aplicação se chamará [Spot-un](https://www.figma.com/file/T268jD0ITQfLltnybGPnPU/spot-un?node-id=0%3A1), um repositório de materias de estudos das principais universidades públicas do Brasil, como listas de exercícios e provas.
-
-**Vou estar atualizando o projeto na minha página do [Medium](https://medium.com/@victormnavarrof) e no [Instagram](https://www.instagram.com/tivor_n/)**
+- A aplicação se chamará Spot-un, um repositório de materias de estudos das principais universidades públicas do Brasil, como listas de exercícios e provas.
 
 ![https://i.ibb.co/SBsWz7w/Untitled-1.png](https://i.ibb.co/SBsWz7w/Untitled-1.png)
 
